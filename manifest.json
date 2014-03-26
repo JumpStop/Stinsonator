@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "The Stinsonator",
+	"version": "1.0",
+	"description": "Does some dumb stuff with HIMYM related things",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
