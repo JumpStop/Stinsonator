@@ -18,6 +18,6 @@ This is the first Chrome extension and Github post I've done, so I'm still tryin
 <b>How to install</b>
 <ol>
 <li> Download the file by <a href="https://github.com/JumpStop/Stinsonator/blob/master/Stinsonator.crx?raw=true">using this direct download link</a> </li> 
-<li> Go to <a href="chrome://extensions/">chrome://extensions/</a> </li>
+<li> Go to <a href="chrome://extensions/">chrome://extensions/</a> (Can't figure out how to make this hyperlink work, so just paste into your URL)</li>
 <li> Drag the downloaded file into the extensions list </li>
 </ol>
